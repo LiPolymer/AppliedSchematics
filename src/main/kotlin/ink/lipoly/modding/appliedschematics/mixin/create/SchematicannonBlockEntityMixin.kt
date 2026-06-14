@@ -1,7 +1,7 @@
-package ink.lipoly.modding.appliedschematic.mixin.create
+package ink.lipoly.modding.appliedschematics.mixin.create
 
 import com.simibubi.create.content.schematics.cannon.SchematicannonBlockEntity
-import ink.lipoly.modding.appliedschematic.blockentity.SchematicannonPathwayBlockEntity
+import ink.lipoly.modding.appliedschematics.blockentity.SchematicannonPathwayBlockEntity
 import net.minecraft.core.BlockPos
 import net.minecraft.world.level.block.entity.BlockEntity
 import net.minecraft.world.level.block.entity.BlockEntityType

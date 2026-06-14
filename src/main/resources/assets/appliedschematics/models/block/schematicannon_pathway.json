@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "appliedschematic:block/schematicannon_pathway"
+    "all": "appliedschematics:block/schematicannon_pathway"
   }
 }

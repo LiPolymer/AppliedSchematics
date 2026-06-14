@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "ink.lipoly.modding.appliedschematic.mixin",
+  "package": "ink.lipoly.modding.appliedschematics.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
     "create.SchematicannonBlockEntityMixin"

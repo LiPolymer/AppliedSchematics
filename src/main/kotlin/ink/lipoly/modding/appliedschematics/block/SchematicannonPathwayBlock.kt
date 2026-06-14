@@ -1,6 +1,6 @@
-package ink.lipoly.modding.appliedschematic.block
+package ink.lipoly.modding.appliedschematics.block
 
-import ink.lipoly.modding.appliedschematic.blockentity.SchematicannonPathwayBlockEntity
+import ink.lipoly.modding.appliedschematics.blockentity.SchematicannonPathwayBlockEntity
 import net.minecraft.core.BlockPos
 import net.minecraft.world.level.Level
 import net.minecraft.world.level.block.Block

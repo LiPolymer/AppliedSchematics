@@ -1,17 +1,17 @@
-package ink.lipoly.modding.appliedschematic
+package ink.lipoly.modding.appliedschematics
 
-import ink.lipoly.modding.appliedschematic.block.ModBlocks
-import ink.lipoly.modding.appliedschematic.blockentity.ModBlockEntities
-import ink.lipoly.modding.appliedschematic.blockentity.SchematicannonPathwayBlockEntity
-import ink.lipoly.modding.appliedschematic.item.ModItems
+import ink.lipoly.modding.appliedschematics.block.ModBlocks
+import ink.lipoly.modding.appliedschematics.blockentity.ModBlockEntities
+import ink.lipoly.modding.appliedschematics.blockentity.SchematicannonPathwayBlockEntity
+import ink.lipoly.modding.appliedschematics.item.ModItems
 import net.neoforged.fml.common.Mod
 import org.apache.logging.log4j.LogManager
 import org.apache.logging.log4j.Logger
 import thedarkcolour.kotlinforforge.neoforge.forge.MOD_BUS
 
-@Mod(AppliedSchematic.ID)
-object AppliedSchematic {
-    const val ID = "appliedschematic"
+@Mod(AppliedSchematics.ID)
+object AppliedSchematics {
+    const val ID = "appliedschematics"
 
     val LOGGER: Logger = LogManager.getLogger(ID)
 

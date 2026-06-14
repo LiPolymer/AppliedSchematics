@@ -1,4 +1,4 @@
-package ink.lipoly.modding.appliedschematic.blockentity
+package ink.lipoly.modding.appliedschematics.blockentity
 
 import appeng.api.AECapabilities
 import appeng.api.config.Actionable
@@ -14,7 +14,7 @@ import appeng.api.storage.MEStorage
 import appeng.api.util.AECableType
 import com.simibubi.create.content.schematics.cannon.MaterialChecklist
 import com.simibubi.create.content.schematics.cannon.SchematicannonBlockEntity
-import ink.lipoly.modding.appliedschematic.block.ModBlocks
+import ink.lipoly.modding.appliedschematics.block.ModBlocks
 import net.minecraft.core.BlockPos
 import net.minecraft.core.Direction
 import net.minecraft.core.HolderLookup
