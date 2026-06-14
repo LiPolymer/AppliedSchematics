@@ -1,6 +1,3 @@
 {
-  "itemGroup.appliedschematic": "Example Mod Tab",
-  "block.appliedschematic.example_block": "Example Block",
-  "block.appliedschematic.schematicannon_pathway": "ME Schematicannon Pathway",
-  "item.appliedschematic.example_item": "Example Item"
+  "block.appliedschematic.schematicannon_pathway": "ME Schematicannon Pathway"
 }
