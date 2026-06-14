@@ -29,3 +29,8 @@ Adapted from [Beyond Dimensions](https://modrinth.com/mod/beyonddimensions)'s Cr
 ## License
 
 This project is licensed under the [AGPLv3](LICENSE).
+
+
+## Acknowledge
+
+Thanks to [Re_Construction](https://github.com/ReConstruction-127) for his amazing texture
