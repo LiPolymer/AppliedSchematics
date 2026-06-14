@@ -1,5 +1,8 @@
 # AppliedSchematics
 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/LiPolymer/AppliedSchematics)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](https://gitlab.com/LiPolymer/AppliedSchematics)
+
 A Minecraft mod that bridges [Create](https://modrinth.com/mod/create)'s Schematicannon with [Applied Energistics 2](https://modrinth.com/mod/ae2)'s ME network, allowing the Schematicannon to pull building materials directly from your ME system.
 
 Adapted from [Beyond Dimensions](https://modrinth.com/mod/beyonddimensions)'s Create integration.
