@@ -8,4 +8,5 @@ object ModItems {
     val REGISTRY: DeferredRegister.Items = DeferredRegister.createItems(AppliedSchematics.ID)
 
     val SCHEMATICANNON_PATHWAY = REGISTRY.registerSimpleBlockItem(ModBlocks.SCHEMATICANNON_PATHWAY)
+    val EXPLOSIVE = REGISTRY.registerSimpleBlockItem(ModBlocks.EXPLOSIVE)
 }

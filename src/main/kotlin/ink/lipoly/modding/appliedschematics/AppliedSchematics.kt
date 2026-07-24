@@ -35,6 +35,7 @@ object AppliedSchematics {
         )
         if (event.tabKey == ae2TabKey) {
             event.accept(ModItems.SCHEMATICANNON_PATHWAY.get())
+            event.accept(ModItems.EXPLOSIVE.get())
         }
     }
 }

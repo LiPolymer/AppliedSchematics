@@ -1,3 +1,11 @@
 {
-  "block.appliedschematics.schematicannon_pathway": "ME Schematicannon Pathway"
+  "block.appliedschematics.schematicannon_pathway": "ME Schematicannon Pathway",
+  "block.appliedschematics.explosive": "Collapse Explosive",
+  "appliedschematics.explosive.radius": "Excavation Radius",
+  "direction.appliedschematics.north": "North",
+  "direction.appliedschematics.south": "South",
+  "direction.appliedschematics.east": "East",
+  "direction.appliedschematics.west": "West",
+  "direction.appliedschematics.up": "Up",
+  "direction.appliedschematics.down": "Down"
 }

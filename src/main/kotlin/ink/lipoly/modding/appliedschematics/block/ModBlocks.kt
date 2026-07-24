@@ -15,4 +15,8 @@ object ModBlocks {
     val SCHEMATICANNON_PATHWAY = REGISTRY.register("schematicannon_pathway") { ->
         SchematicannonPathwayBlock(BlockBehaviour.Properties.of().strength(2.0f).noOcclusion())
     }
+
+    val EXPLOSIVE = REGISTRY.register("explosive") { ->
+        ExplosiveBlock(BlockBehaviour.Properties.of().strength(1.0f).noOcclusion())
+    }
 }

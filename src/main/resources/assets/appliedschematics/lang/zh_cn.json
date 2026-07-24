@@ -1,3 +1,11 @@
 {
-  "block.appliedschematics.schematicannon_pathway": "ME 蓝图加农炮通道"
+  "block.appliedschematics.schematicannon_pathway": "ME 蓝图加农炮通道",
+  "block.appliedschematics.explosive": "坍缩爆炸物",
+  "appliedschematics.explosive.radius": "挖掘半径",
+  "direction.appliedschematics.north": "北",
+  "direction.appliedschematics.south": "南",
+  "direction.appliedschematics.east": "东",
+  "direction.appliedschematics.west": "西",
+  "direction.appliedschematics.up": "上",
+  "direction.appliedschematics.down": "下"
 }

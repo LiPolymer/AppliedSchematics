@@ -18,4 +18,12 @@ object ModBlockEntities {
                 ModBlocks.SCHEMATICANNON_PATHWAY.get(),
             ).build(null)
         }
+
+    val EXPLOSIVE: DeferredHolder<BlockEntityType<*>, BlockEntityType<ExplosiveBlockEntity>> =
+        REGISTRY.register("explosive") { ->
+            BlockEntityType.Builder.of(
+                ::ExplosiveBlockEntity,
+                ModBlocks.EXPLOSIVE.get(),
+            ).build(null)
+        }
 }
