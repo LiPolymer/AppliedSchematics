@@ -60,7 +60,7 @@ class SidedScrollValueBehaviour(
             label.copy().append(" (").append(faceName).append(")"),
             max,
             10,
-            listOf(Component.literal("Value")),
+            listOf(label),
             ValueSettingsFormatter { s: ValueSettingsBehaviour.ValueSettings -> CreateLang.number(s.value().toDouble()).component() },
         )
     }

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I#E",
+    "#S#",
+    "T#I"
+  ],
+  "key": {
+    "#": {
+      "item": "ae2:tiny_tnt"
+    },
+    "S": {
+      "item": "ae2:singularity"
+    },
+    "E": {
+      "item": "ae2:engineering_processor"
+    },
+    "I": {
+      "item": "create:iron_sheet"
+    },
+    "T": {
+      "item": "create:electron_tube"
+    }
+  },
+  "result": {
+    "id": "appliedschematics:explosive",
+    "count": 1
+  }
+}
